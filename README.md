@@ -22,3 +22,10 @@
 ![8fafafac-c287-4406-967a-cfa642bde24c](https://user-images.githubusercontent.com/83534718/175302271-22349ab0-f506-46fb-acfc-ee423045d3ab.jpg)
 ![2e8f7468-da8e-4bdc-ac67-292eda9a48cc](https://user-images.githubusercontent.com/83534718/175302276-61d7ea88-2b29-42ee-9ea0-1b5d1f87bcfb.jpg)
 ![eea8f3a4-e9da-47c5-aef0-e664ce01d795](https://user-images.githubusercontent.com/83534718/175302278-2e065c58-1478-4177-82f8-0961553afb20.jpg)
+
+hasil screenshoot splashscren
+<img width="960" alt="l14" src="https://user-images.githubusercontent.com/83534718/175558687-25d2adca-73bf-4a85-8ff4-b6fef1b5a810.PNG">
+<img width="960" alt="l15" src="https://user-images.githubusercontent.com/83534718/175558702-d86a9359-1723-48fc-86f4-01fc4cf386b4.PNG">
+hasil screenshoot splashscren tampilan di android![splashscreen](https://user-images.githubusercontent.com/83534718/175558827-df8b5d83-27b5-44fa-825c-0bcecf384b8e.jpg)
+![hasil](https://user-images.githubusercontent.com/83534718/175558839-0db896da-5824-4c5e-b53b-fe55dc49cd22.jpg)
+
