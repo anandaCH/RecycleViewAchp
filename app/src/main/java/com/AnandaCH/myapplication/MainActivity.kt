@@ -1,8 +1,11 @@
 package com.AnandaCH.myapplication
 
 import android.app.Dialog
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.view.Menu
+import android.view.MenuItem
 import android.view.Window
 import android.widget.Button
 import android.widget.ImageView
@@ -59,5 +62,24 @@ class MainActivity : AppCompatActivity() {
         }
     })
 
+    }
+
+    override fun onCreateOptionsMenu(menu: Menu?): Boolean {
+        menuInflater.inflate(R.menu.menu_main,menu)
+        return super.onCreateOptionsMenu(menu)
+    }
+
+    override fun onOptionsItemSelected(item: MenuItem): Boolean {
+        setmode(item.itemId)
+        return super.onOptionsItemSelected(item)
+    }
+
+    private fun setmode(selectedMode :  Int) {
+        when (selectedMode) {
+            R.id.Myprofile -> {
+                val intent = Intent(this,Profile::class.java)
+                startActivity(intent)
+            }
+        }
     }
 }
